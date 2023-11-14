@@ -1,0 +1,4 @@
+- merah
+- biru
+- hijau
+- pink
