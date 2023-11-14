@@ -1,4 +1,4 @@
-# LATIAN---BEACH
+# LATIHAN---BATCH
 
 "Cara agar dapat ninja"
 1. - tendang pintu
